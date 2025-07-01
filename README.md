@@ -1,5 +1,7 @@
 # Restaurant - Next.js Restaurant Website
 
+#DEMO: https://restaurent-nextjs-five.vercel.app/
+
 A modern, responsive restaurant website built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Features
